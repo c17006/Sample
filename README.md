@@ -1,8 +1,8 @@
 # はじめてのGitHub  
-c17006 川崎大也
+c17006 川崎大也  
 <https://github.com/c17006/Sample>  
   
-## ローカルリポジトリ    
+## ローカルリポジトリ
 * お好み焼きレシピ  
 	[okonomi.txt](okonomi.txt) 
   
