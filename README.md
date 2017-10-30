@@ -7,6 +7,6 @@ c17006 川崎大也
 	(okonomi.txt) 
   
 ## リモートリポジトリ
-*[README.md](README.md)を作ってみる  
-*マークダウンを覚える
+* [README.md](README.md)を作ってみる
+* マークダウンを覚える
 
